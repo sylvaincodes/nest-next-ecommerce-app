@@ -14,7 +14,7 @@ The backend exposes a REST API consumed by the frontend, with secure JWT authent
 ---
 
 ## Folder Structure
-
+```
 root/
 │
 ├── api/ # NestJS backend
@@ -39,7 +39,7 @@ root/
 │ └── README.md # Frontend-specific instructions
 │
 └── README.md # This overview file
-
+```
 
 ---
 
